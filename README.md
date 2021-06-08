@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Front-end developer @blackswan1989
 - 👀 I’m interested in Front-end development field
 - 🌱 I’m currently learning JavaScript, Angular and Algorithm basics
-- 💞️ I’m looking to collaborate on side project
 - 📫 How to reach me -> ✨ blackswan1989@naver.com ✨
 
 <!---
